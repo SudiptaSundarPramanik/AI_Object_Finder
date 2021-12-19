@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+}
+.heading{
+    font-size: 23px;
+    margin: 0;
+    width: 100%;
+}
+.note{
+    font-size: 15px;
+    color: black;
+}
+#object_name{
+    font-weight: bold;
+    color: white;
+}  
+#input_object_name{
+    width: 50%;
+}
+canvas{
+    margin: 0px solid white;
+    box-shadow: 1px 38px 38px yellow;
+    border: 25px;
+    background-color: grey;
+    border-color: red;
+}
